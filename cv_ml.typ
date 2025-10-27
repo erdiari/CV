@@ -51,7 +51,7 @@
   // Uncomment the line below if you want edu formatting to be consistent with everything else
   // consistent: true
 )
-- Relevant Coursework: Python, Fortran, Statistical Learning From Data and General Mathematics
+- Relevant Coursework: Statistical Learning From Data, Statistics, Python, Fortran, General Mathematics
 
 == Work Experience
 
@@ -64,19 +64,19 @@
 
 === Notable Projects:
 
-- LLM Training: Trained #link("https;//kumru.ai")[Kumru AI] and VBART, from scratch. (Data collection, filtering, pre-training, post-training)
+- Churn Rate Analysis: Developed machine learning models to predict customer churn using behavioral data patterns and statistical analysis, improving retention strategies through early identification of at-risk customers
+- Predictive Maintenance: Built time-series forecasting models to predict equipment failure and maintenance needs, utilizing statistical methods and classical ML approaches for operational optimization
 - Real-Time Transcription: Developed systems for converting live speech to text instantly, enabling immediate text output during conversations or presentations
 - Text Categorization: Created automated classification systems to organize textual content into relevant categories, streamlining information management
 - Graph-based RAG: Implemented a Retrieval-Augmented Generation system using graph structures to enhance context understanding and information retrieval
-- Video Generation: Engineered AI-driven solutions for automated video content production
 - Specialized Data Curation: Assembled and refined datasets specifically tailored for model fine-tuning, improving AI model performance for targeted use cases
 
 == Skills
-- *Python*: PyTorch, TensorFlow, Keras, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Plotly, JAX, Langchain, Hugging Face
-- *Machine  Learning, AI*: Machine Learning, Deep Learning, Neural Networks, Natural Language Processing (NLP), Transformers, Attention Mechanisms, Transfer Learning, Reinforcement Learning, Model Lifecycle, CNN, RNN, LSTM, Generative AI, Data Science, GAN, Hyperparameter Tuning, Algorithm Design, Big Data
-- *Proficiency in UNIX/LINUX Environment*: Ubuntu, NixOS, CentOS, Bash Scripting, Shell Commands, Package Management, Anaconda, Virtual Environments, System Administration, Performance Monitoring
+- *Python*: PyTorch, TensorFlow, Keras, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Plotly, JAX, Langchain, Hugging Face, ONNX
+- *Machine Learning & Statistics*: Time-Series Forecasting, Churn Prediction, Statistical Analysis, Classical Machine Learning, Deep Learning, Neural Networks, Predictive Modeling, User Behavior Modeling, Natural Language Processing (NLP), Transformers, Transfer Learning, Model Lifecycle, CNN, RNN, LSTM, Data Science, Hyperparameter Tuning, Algorithm Design
+- *Proficiency in UNIX/LINUX Environment*: Ubuntu, CentOS, Bash Scripting, Shell Commands, Package Management, Anaconda, Virtual Environments, System Administration, Performance Monitoring
 - *Cloud Services (AWS)*: AWS EC2, S3, SageMaker, IAM, Docker, Containerization, Kubernetes, APIs, Cloud Computing
-- *Development Cycles*: Git, GitHub/GitLab, CI/CD Pipelines, Unit Testing, DevOps, Data Engineering, Documentation
+- *Databases & Development*: PostgreSQL, NoSQL Databases, SQL, Git, GitHub/GitLab, CI/CD Pipelines, Unit Testing, DevOps, Data Engineering, Jira, Documentation
 
 == Extra
 
