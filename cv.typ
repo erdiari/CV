@@ -94,6 +94,13 @@
 *Ahşapta İç Kusurların Tespiti...*, 
 (#link("https://www.researchgate.net/publication/378845877_AHSAPTA_IC_KUSURLARI_TESPIT_ETMEK_ICIN_IC_BOYAMA_YONTEMI_KULLANARAK_TOMOGRAFIK_GORUNTU_OLUSTURMA")[www.researchgate.net/...])
 === Certificates
+
+#certificates(
+  name: "Toelf C1 (110/120)",
+  issuer: "ETS",
+  date: "11 February 2026"
+)
+
 #certificates(
   name: "Getting Started with Deep Learning",
   issuer: "NVIDIA",
